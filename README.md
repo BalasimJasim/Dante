@@ -29,30 +29,30 @@ A modern, responsive dental clinic website built with Next.js, TypeScript, and T
 ## 📦 Installation
 
 1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/yourusername/dante-dental.git
-\`\`\`
+```bash
+git clone git@github.com:BalasimJasim/Dante.git
+```
 
 2. Navigate to the project directory:
-\`\`\`bash
-cd dante-dental/frontend
-\`\`\`
+```bash
+cd dante/frontend
+```
 
 3. Install dependencies:
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 4. Run the development server:
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 frontend/
 ├── public/          # Static files
 │   ├── images/      # Image assets
@@ -65,7 +65,7 @@ frontend/
 │   └── styles/      # Global styles
 ├── package.json     # Dependencies and scripts
 └── next.config.ts   # Next.js configuration
-\`\`\`
+```
 
 ## 🔧 Configuration
 
@@ -94,15 +94,15 @@ The website is deployed on Vercel. To deploy your own instance:
 
 ### Running Tests
 
-\`\`\`bash
+```bash
 npm run test
-\`\`\`
+```
 
 ### Building for Production
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ## 🤝 Contributing
 
@@ -116,25 +116,10 @@ npm run build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- Frontend Development: [Your Name]
-- Design: [Designer Name]
-- Project Management: [PM Name]
-
 ## 📞 Support
 
-For support, email [your-email@example.com] or open an issue on GitHub.
-
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vercel](https://vercel.com/)
-- All contributors and supporters
+For support, email balasimboliewi@gmail.com or open an issue on GitHub.
 
 ## 🔗 Links
 
 - [Live Demo](https://dante-dental.vercel.app)
-- [Documentation](https://github.com/yourusername/dante-dental/wiki)
-- [Issue Tracker](https://github.com/yourusername/dante-dental/issues) 
